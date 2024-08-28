@@ -21,14 +21,14 @@ repository               : "victorauger/victorauger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo_id2.jpg"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : #"Earth"
+  employer         : "LAPSCO (UCA/CNRS)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "victor.auger.ac@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
