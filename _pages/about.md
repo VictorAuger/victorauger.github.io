@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 1200px; margin: 0 auto;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; margin: 0 auto;">
   <!-- Left Column: Photo and Information -->
-  <div style="flex: 1; max-width: 300px; text-align: center; padding-right: 40px;">
+  <div style="flex: 1; max-width: 350px; text-align: center; padding-right: 40px;">
     <img src="photo_id2.jpg" alt="Your Name" style="width: 150px; border-radius: 50%; margin-bottom: 15px;">
     <h2>Your Name</h2>
     <p style="color: grey;">Ph.D. candidate</p>
