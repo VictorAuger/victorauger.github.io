@@ -6,6 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+body, .parent-container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    border: 1px solid #d3d3d3;
+}
+
+.container div {
+    width: 100%;
+}
+</style>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; margin: 0 auto;">
   <!-- Left Column: Photo and Information -->
