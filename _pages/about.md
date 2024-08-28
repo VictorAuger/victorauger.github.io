@@ -32,6 +32,9 @@ redirect_from:
       <a href="https://orcid.org/yourprofile" style="margin-right: 10px;">
         <img src="assets/icons/orcid-icon.png" alt="ORCID" style="width: 20px;">
       </a>
+      <a href="https://orcid.org/yourprofile" style="margin-right: 10px;">
+        <img src="assets/icons/orcid-icon.png" alt="ORCID" style="width: 20px;">
+      </a>
     </div>
   </div>
   
