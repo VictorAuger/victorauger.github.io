@@ -57,12 +57,12 @@ redirect_from:
       </div>
       <div>
         <h3>Education</h3>
-        <p>🎓 On going PhD in Social Psychology, 2021 </p>
-        <p>Univ. Clermont Auvergne</p>
-        <p>🎓 Msc in Psychology, 2021</p>
-        <p>Univ. de Tours</p>
-        <p>🎓 BA in Psychology, 2019</p>
-        <p> Nantes Univ.</p>
+        <p🎓 On going PhD in Social Psychology, 2021 </p>
+        <pUniv. Clermont Auvergne</p>
+        <p🎓 Msc in Psychology, 2021</p>
+        <pUniv. de Tours</p>
+        <p🎓 BA in Psychology, 2019</p>
+        <p Nantes Univ.</p>
 
       </div>
     </div>
