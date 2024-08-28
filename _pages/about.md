@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-image: image: assets/images/photo_id2.jpg
+
+![My Photo](assets/images/photo_id2.jpg)
 
 Hello,
 
