@@ -11,7 +11,6 @@ redirect_from:
   <!-- Left Column: Photo and Information -->
   <div style="flex: 1; max-width: 350px; text-align: center; padding-right: 40px;">
     <img src="photo_id2.jpg" alt="Your Name" style="width: 150px; border-radius: 50%; margin-bottom: 15px;">
-    <h2>Your Name</h2>
     <p style="color: grey;">Ph.D. candidate</p>
     <p>Laboratoire de Psychologie Sociale et Cognitive,<br>UCA, CNRS</p>
     <p>PICNIC team, Paris Brain Institute (ICM)</p>
