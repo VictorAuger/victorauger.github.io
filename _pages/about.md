@@ -39,25 +39,27 @@ redirect_from:
   <div style="flex: 2;">
     <h2>Research interests</h2>
     <h3>Economic Scarcity and Inequality</h3>
-    <p>I am a computational cognitive neuroscientist interested in the conscious experience of inner speech and its neural underpinnings. My research combines experimental (e.g., psychophysics, EMG, M/EEG, TMS) and computational (e.g., mathematical modelling, machine learning) methods to understand how complex patterns of neural activity (in both biological and artificial neural networks) give rise to algorithms supporting the mental simulation of speech.</p>
+    <p>I am a  interested in ... .</p>
     
-    <h3>Statistical modelling and slow science</h3>
-    <p>In parallel, I also work on the development and dissemination of rigorous experimental and statistical methods. Besides, I feel very concerned about the issue of making our research more open, reproducible, and sustainable.</p>
+    <h3>Methods and New Practices in Psychology</h3>
+    <p>Also, </p>
     
     <div style="display: flex; justify-content: space-between; margin-top: 20px;">
       <div>
         <h3>Interests</h3>
         <ul>
-          <li>Inner speech</li>
-          <li>Motor control</li>
-          <li>Motor imagery</li>
-          <li>Time perception</li>
+          <li>Poverty</li>
+          <li>Inequality</li>
+          <li>Cognition</li>
+          <li>Visual Representation</li>
         </ul>
       </div>
       <div>
         <h3>Education</h3>
-        <p>🎓 PhD in Cognitive Psychology, 2019<br>Univ. Grenoble Alpes</p>
-        <p>🎓 PhD in Clinical and Experimental Psychology, 2019</p>
+        <p>🎓 On going PhD in Social Psychology, 2021 - <br>Univ. Clermont Auvergne</p>
+        <p>🎓 Msc in Psychology, 2021</p>
+        <p>🎓 BA in Psychology, 2019</p>
+
       </div>
     </div>
   </div>
