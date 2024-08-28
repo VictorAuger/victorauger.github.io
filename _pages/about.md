@@ -13,7 +13,6 @@ redirect_from:
     <img src="photo_id2.jpg" alt="Your Name" style="width: 150px; border-radius: 50%; margin-bottom: 15px;">
     <p style="color: grey;">Ph.D. candidate</p>
     <p>Laboratoire de Psychologie Sociale et Cognitive,<br>UCA, CNRS</p>
-    <p>PICNIC team, Paris Brain Institute (ICM)</p>
     <div style="margin-top: 15px;">
       <!-- Social Media Icons -->
       <a href="mailto:your.email@example.com" style="margin-right: 10px;">
