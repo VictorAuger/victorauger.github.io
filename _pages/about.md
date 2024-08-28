@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 1200px; margin: 0 auto;">
   <!-- Left Column: Photo and Information -->
-  <div style="flex: 1; max-width: 300px; text-align: center; padding-right: 20px;">
+  <div style="flex: 1; max-width: 300px; text-align: center; padding-right: 40px;">
     <img src="photo_id2.jpg" alt="Your Name" style="width: 150px; border-radius: 50%; margin-bottom: 15px;">
     <h2>Your Name</h2>
     <p style="color: grey;">Ph.D. candidate</p>
-    <p>Cognitive neuroimaging unit,<br>NeuroSpin, CEA</p>
+    <p>Laboratoire de Psychologie Sociale et Cognitive,<br>UCA, CNRS</p>
     <p>PICNIC team, Paris Brain Institute (ICM)</p>
     <div style="margin-top: 15px;">
       <!-- Social Media Icons -->
@@ -38,7 +38,7 @@ redirect_from:
   <!-- Right Column: Research Interests and Education -->
   <div style="flex: 2;">
     <h2>Research interests</h2>
-    <h3>Mental production of speech (inner speech)</h3>
+    <h3>Economic Scarcity and Inequality</h3>
     <p>I am a computational cognitive neuroscientist interested in the conscious experience of inner speech and its neural underpinnings. My research combines experimental (e.g., psychophysics, EMG, M/EEG, TMS) and computational (e.g., mathematical modelling, machine learning) methods to understand how complex patterns of neural activity (in both biological and artificial neural networks) give rise to algorithms supporting the mental simulation of speech.</p>
     
     <h3>Statistical modelling and slow science</h3>
