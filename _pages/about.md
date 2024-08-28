@@ -1,5 +1,4 @@
 ---
-image: image: assets/images/photo_id2.jpg
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -7,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+image: image: assets/images/photo_id2.jpg
 
 Hello,
 
