@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-width: 200px;">
-    <img src="assets/images/photo_id2.jpg" alt="My Photo" style="width: 100%; border-radius: 50%;">
+    <img src="photo_id2.jpg" alt="My Photo" style="width: 100%; border-radius: 50%;">
   </div>
   <div style="flex: 3; padding-left: 20px;">
     <h1>Hello,</h1>
