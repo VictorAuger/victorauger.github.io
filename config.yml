@@ -50,7 +50,7 @@ params:
           enabled: true
           title: Victor Auger
           subtitle: "I am a PhD Student blablabla."
-          imageUrl: "photo.jpeg"
+          imageUrl: "photo.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
