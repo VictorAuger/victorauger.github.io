@@ -10,27 +10,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: articles/
+          weight: 1
+        - name: Talks
+          url: talks/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Teaching
+          url: classes/
+          weight: 3 
+        - name: Resume
+          url: CV.pdf
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a PhD Candidate in Social and Cognitive Psychology at the LAPSCO - UCA / CNRS."
+    author: Victor Auger
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "02 Jan 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -58,42 +54,38 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Publications
+              url: articles/
+            - name: Talks
+              url: talks/
+            - name: Teaching
+              url: classes/
+            - name: Resume
+              url: CV.pdf
 
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+     socialIcons:
+        - name: hal
+          url: https://hal.science/search/index/?q=*&authIdPerson_i=1252189
+        - name: orcid
+          url: https://orcid.org/0000-0002-8895-4591
+        # - name: CV
+        #   url: cv.pdf
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=vt447hoAAAAJ&hl=fr&oi=sra
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/VictorAuger
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: Twitter
+        #   url: https://twitter.com/pmichaillat
+        - name: Email
+          url: mailto:victor.auger.ac@gmail.com
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +93,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Victor Auger"
       icon: favicon.ico
       iconHeight: 18
 
