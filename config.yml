@@ -62,7 +62,6 @@ params:
               url: classes/
             - name: Resume
               url: CV.pdf
-
      socialIcons:
         - name: hal
           url: https://hal.science/search/index/?q=*&authIdPerson_i=1252189
