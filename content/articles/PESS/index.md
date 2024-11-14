@@ -1,50 +1,44 @@
 ---
-title: "Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use [Preprint - Accepted @ IEEE MIPR 2024]"
-date: 2024-04-15
-tags: ["Machine Learning", "Retrieval Augmented Generation", "Structured Generation", "Structured Prompting", "Supervised Finetuning", "Document Information Extraction"]
-author: "Franz Louis Cesista, Rui Aguiar, Jason Kim, Paolo Acilo"
-description: "Business Document Information Extraction (BDIE) is the problem of transforming a blob of unstructured information (raw text, scanned documents, etc.) into a structured format that downstream systems can parse and use. It has two main tasks: Key-Information Extraction (KIE) and Line Items Recognition (LIR). In this paper, we argue that BDIE is best modeled as a Tool Use problem, where the tools are these downstream systems. We then present Retrieval Augmented Structured Generation (RASG), a novel general framework for BDIE that achieves state of the art (SOTA) results on both KIE and LIR tasks on BDIE benchmarks.
+title: "The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income."
+date: 2024-01-11
+tags: ["income", "scale validation", "subjective economic scarcity", "subjective well-being", "cognition", "risk and time preferences"]
+author: "Victor Auger, Nicolas Sommet, Alice Normand"
+description: This article introduces the Perceived Economic Scarcity Scale (PESS), a novel instrument measuring the subjective evaluation and experience of economic scarcity (the feeling of having insufficient financial resources to meet one's needs). We conducted three high-powered preregistered studies (total N = 1900) to rigorously evaluate the PESS's psychometric properties. In Study 1, we generated a pool of items and used both Principal Component Analysis and Exploratory Factor Analysis to select the most appropriate items. In Study 2, we examined the PESS's construct validity, demonstrating that it measures a distinct construct from related constructs such as subjective social class. In Study 3, we examined the PESS's predictive validity, demonstrating that it is a robust predictor of both affective outcomes (e.g. anxiety-depressive symptoms) and cognitive outcomes (e.g. economic risk-taking). Critically, we found that the PESS not only has incremental validity over and above income but also has greater predictive utility than income. We also found that the PESS score varies depending on the distance-to-pay and has excellent test–retest reliability. Overall, the PESS appears to be a valid and reliable instrument for assessing perceived economic scarcity, and we encourage researchers to use it to better understand the psychological consequences of ‘not having enough’.
 
-The contributions of this paper are threefold: (1) We show, with ablation benchmarks, that Large Language Models (LLMs) with RASG are already competitive with or surpasses current SOTA Large Multimodal Models (LMMs) without RASG on BDIE benchmarks. (2) We propose a new metric class for Line Items Recognition, General Line Items Recognition Metric (GLIRM), that is more aligned with practical BDIE use cases compared to existing metrics, such as ANLS*, DocILE, and GriTS. (3) We provide a heuristic algorithm for backcalculating bounding boxes of predicted line items and tables without the need for vision encoders. Finally, we claim that, while LMMs might sometimes offer marginal performance benefits, LLMs + RASG is oftentimes superior given real-world applications and constraints of BDIE."
-summary: "[Preprint - Accepted @ IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR) 2024] This paper presents Retrieval Augmented Structured Generation (RASG), a novel general framework for Business Document Information Extraction that achieves state of the art (SOTA) results on both Key-Information Extraction (KIE) and Line Items Recognition (LIR)."
 cover:
     image: "cover.png"
-    alt: "Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use [Preprint - Accepted @ IEEE MIPR 2024]"
+    alt: "The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income."
 ---
 
 ![cover](cover.png)
 
-Authors: [Franz Louis Cesista](mailto:franzlouiscesista@gmail.com), Rui Aguiar, Jason Kim, Paolo Acilo
+Authors: [Victor Auger](mailto:victor.auger.ac@gmail.com), Nicolas Sommet, Alice Normand
 
-Arxiv: [Abstract](https://arxiv.org/abs/2405.20245)
-
-PDF: [Preprint - Accepted @ IEEE MIPR 2024](/rasg.pdf)
-
-Code on GitHub: [Will be available on or before June 17th, 2024]
+PDF: [Accepted Version @ BJSP](https://hal.science/hal-04390018)
 
 ---
 
 ## Abstract
 
-Business Document Information Extraction (BDIE) is the problem of transforming a blob of unstructured information (raw text, scanned documents, etc.) into a structured format that downstream systems can parse and use. It has two main tasks: Key-Information Extraction (KIE) and Line Items Recognition (LIR). In this paper, we argue that BDIE is best modeled as a Tool Use problem, where the tools are these downstream systems. We then present Retrieval Augmented Structured Generation (RASG), a novel general framework for BDIE that achieves state of the art (SOTA) results on both KIE and LIR tasks on BDIE benchmarks.
-
-The contributions of this paper are threefold:
-
-1. We show, with ablation benchmarks, that Large Language Models (LLMs) with RASG are already competitive with or surpasses current SOTA Large Multimodal Models (LMMs) without RASG on BDIE benchmarks.
-2. We propose a new metric class for Line Items Recognition, General Line Items Recognition Metric (GLIRM), that is more aligned with practical BDIE use cases compared to existing metrics, such as ANLS*, DocILE, and GriTS.
-3. We provide a heuristic algorithm for backcalculating bounding boxes of predicted line items and tables without the need for vision encoders.
-
-Finally, we claim that, while LMMs might sometimes offer marginal performance benefits, LLMs + RASG is oftentimes superior given real-world applications and constraints of BDIE.
+This article introduces the Perceived Economic Scarcity Scale (PESS), a novel instrument measuring the subjective evaluation and experience of economic scarcity (the feeling of having insufficient financial resources to meet one's needs). We conducted three high-powered preregistered studies (total N = 1900) to rigorously evaluate the PESS's psychometric properties. In Study 1, we generated a pool of items and used both Principal Component Analysis and Exploratory Factor Analysis to select the most appropriate items. In Study 2, we examined the PESS's construct validity, demonstrating that it measures a distinct construct from related constructs such as subjective social class. In Study 3, we examined the PESS's predictive validity, demonstrating that it is a robust predictor of both affective outcomes (e.g. anxiety-depressive symptoms) and cognitive outcomes (e.g. economic risk-taking). Critically, we found that the PESS not only has incremental validity over and above income but also has greater predictive utility than income. We also found that the PESS score varies depending on the distance-to-pay and has excellent test–retest reliability. Overall, the PESS appears to be a valid and reliable instrument for assessing perceived economic scarcity, and we encourage researchers to use it to better understand the psychological consequences of ‘not having enough’.
 
 ## Citation
 
+Auger, V., Sommet, N., & Normand, A. (2024). The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income. _British Journal of Social Psychology, 63_, 1112–1136. https://doi.org/10.1111/bjso.12719
+
 ```bibtex
-@misc{cesista2024rasg,
-    title={Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use},
-    author={Franz Louis Cesista, Rui Aguiar, Jason Kim, Paolo Acilo},
-    year={2024},
-    eprint={2405.20245},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@article{https://doi.org/10.1111/bjso.12719,
+author = {Auger, Victor and Sommet, Nicolas and Normand, Alice},
+title = {The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income},
+journal = {British Journal of Social Psychology},
+volume = {63},
+number = {3},
+pages = {1112-1136},
+keywords = {income, risk and time preferences, scale validation, subjective economic scarcity, subjective well-being},
+doi = {https://doi.org/10.1111/bjso.12719},
+url = {https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/bjso.12719},
+eprint = {https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bjso.12719},
+abstract = {Abstract This article introduces the Perceived Economic Scarcity Scale (PESS), a novel instrument measuring the subjective evaluation and experience of economic scarcity (the feeling of having insufficient financial resources to meet one's needs). We conducted three high-powered preregistered studies (total N = 1900) to rigorously evaluate the PESS's psychometric properties. In Study 1, we generated a pool of items and used both Principal Component Analysis and Exploratory Factor Analysis to select the most appropriate items. In Study 2, we examined the PESS's construct validity, demonstrating that it measures a distinct construct from related constructs such as subjective social class. In Study 3, we examined the PESS's predictive validity, demonstrating that it is a robust predictor of both affective outcomes (e.g. anxiety-depressive symptoms) and cognitive outcomes (e.g. economic risk-taking). Critically, we found that the PESS not only has incremental validity over and above income but also has greater predictive utility than income. We also found that the PESS score varies depending on the distance-to-pay and has excellent test–retest reliability. Overall, the PESS appears to be a valid and reliable instrument for assessing perceived economic scarcity, and we encourage researchers to use it to better understand the psychological consequences of ‘not having enough’.},
+year = {2024}
 }
 ```
