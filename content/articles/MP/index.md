@@ -1,5 +1,5 @@
 ---
-title: "Comment on \"Responsible Research Assessment: Implementing DORA for hiring and promotion in psychology”"
+title: "Comment on \"Responsible Research Assessment: Implementing DORA for hiring and promotion in psychology” (2024)"
 date: 2024-03-17
 tags: ["Research Assessment", "Simulation-based Approach", "Open Science"]
 author: "Victor Auger, Nele Claes"
