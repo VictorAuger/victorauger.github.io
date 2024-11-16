@@ -10,7 +10,7 @@ cover:
     alt: "Data simulations for advancing psychological research: Insights, preparations and investigations"
 ---
 
-![cover](mp_cover.png)
+![cover](cover_sim.png)
 
 Authors: [Victor Auger](mailto:victor.auger.ac@gmail.com), Alice Normand
 
