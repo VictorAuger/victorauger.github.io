@@ -16,6 +16,8 @@ Authors: [Victor Auger](mailto:victor.auger.ac@gmail.com), Alice Normand
 
 PDF: [Final Version @ IJP](https://onlinelibrary.wiley.com/doi/10.1002/ijop.13238)
 
+Shiny app: [here](https://tjw41q-victor0auger.shinyapps.io/Sim_shinny112/)
+
 ---
 
 ## Abstract
