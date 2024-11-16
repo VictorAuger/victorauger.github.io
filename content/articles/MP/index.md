@@ -1,5 +1,5 @@
 ---
-title: "Comment on "Responsible Research Assessment: Implementing DORA for hiring and promotion in psychology”"
+title: "Comment on \"Responsible Research Assessment: Implementing DORA for hiring and promotion in psychology”"
 date: 2024-03-17
 tags: ["Research Assessment", "Simulation-based Approach", "Open Science"]
 author: "Victor Auger, Nele Claes"
@@ -7,7 +7,7 @@ description: In target papers, Schönbrodt et al. (2022), and Gärtner et al. (2
 summary: "[Published in Meta-Psychology 2024] This paper presents a simulation assessment of the marking scheme and present shiny app with flexible weights"
 cover:
     image: "mp_cover.png"
-    alt: "Comment on "Responsible Research Assessment: Implementing DORA for hiring and promotion in psychology”"
+    alt: "Comment on \"Responsible Research Assessment: Implementing DORA for hiring and promotion in psychology”"
 ---
 
 ![cover](mp_cover.png)
