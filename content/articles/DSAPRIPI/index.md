@@ -1,5 +1,5 @@
 ---
-title: "Data simulations for advancing psychological research: Insights, preparations and investigations"
+title: "Data simulations for advancing psychological research: Insights, preparations and investigations (2024)"
 date: 2024-09-19
 tags: ["Modelling", "Data simulations", "Statistical power", "Methods"]
 author: "Victor Auger, Alice Normand"
