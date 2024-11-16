@@ -1,17 +1,17 @@
-**Discipline-Specific Courses [Social and Cognitive Psychology]**
+**1. Discipline-Specific Courses [Social and Cognitive Psychology]**
 
-Cognition in Contexts (8 hrs, Master’s level)
+- Cognition in Contexts (8 hrs, Master’s level)
 
-Social Cognition (40 hrs, Bachelor’s level)
+- Social Cognition (40 hrs, Bachelor’s level)
 
-Cognitive Psychology (92 hrs, Bachelor’s level)
+- Cognitive Psychology (92 hrs, Bachelor’s level)
 
 
 
-**Cross-Disciplinary Courses [Statistics, Methodology]**
+**2. Cross-Disciplinary Courses [Statistics, Methodology]**
 
-Research Studies and Projects (34 hrs, Bachelor’s level)
+- Research Studies and Projects (34 hrs, Bachelor’s level)
 
-Statistics (54 hrs, Bachelor’s level)
+- Statistics (54 hrs, Bachelor’s level)
 
-Scientific Method (94 hrs, Bachelor’s level)
+- Scientific Method (94 hrs, Bachelor’s level)
