@@ -1,3 +1,7 @@
+---
+title: "Talks"
+hidemeta: true
+---
 [7] Auger, V., Darnon, C., Normand, A. (2024) Effets Cognitifs des Inégalités Économiques et de la Perception de Manque
 d'Argent : Exploration de Modérateurs Potentiels. 15e Congrès International de Psychologie Sociale (CIPS), Bruxelles,
 Belgique.
