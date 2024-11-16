@@ -1,5 +1,5 @@
 ---
-title: "The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income."
+title: "The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income. (2024)"
 date: 2024-01-11
 tags: ["income", "scale validation", "subjective economic scarcity", "subjective well-being", "cognition", "risk and time preferences"]
 author: "Victor Auger, Nicolas Sommet, Alice Normand"
