@@ -13,12 +13,17 @@ menu:
         - name: Publications
           url: articles/
           weight: 1
+        - name: Research
+          url: research/
+          weight: 2
+          params:
+            description: "View current research projects."
         - name: Talks
           url: talks/
-          weight: 2
+          weight: 3
         - name: Teaching
           url: classes/
-          weight: 3 
+          weight: 4
         - name: Resume
           url: CV.pdf
 
@@ -56,6 +61,8 @@ params:
           buttons:
             - name: Publications
               url: articles/
+            - name: Research
+              url: research/
             - name: Talks
               url: talks/
             - name: Teaching
