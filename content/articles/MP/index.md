@@ -26,7 +26,7 @@ In target papers, Schönbrodt et al. (2022), and Gärtner et al. (2022) proposed
 
 ## Citation
 
-Auger, V., Sommet, N., & Normand, A. (2024). The Perceived Economic Scarcity Scale: A valid tool with greater predictive utility than income. _British Journal of Social Psychology, 63_, 1112–1136. https://doi.org/10.1111/bjso.12719
+Auger, V., et Claes, N. (2024) Comment on "Responsible Research Assessment: Implementing DORA for Hiring and Promotion in Psychology”. _Meta-Psychology_, _8_, https://doi.org/10.15626/MP.2023.3779.
 
 ```bibtex
 @article{https://doi.org/10.15626/MP.2023.3779,
