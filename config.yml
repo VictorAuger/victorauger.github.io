@@ -100,7 +100,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Victor Auger"
-      #icon: favicon.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
