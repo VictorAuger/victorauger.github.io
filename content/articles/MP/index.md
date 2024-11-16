@@ -16,6 +16,7 @@ Authors: [Victor Auger](mailto:victor.auger.ac@gmail.com), Nele Claes
 
 PDF: [Final Version @ MP](https://open.lnu.se/index.php/metapsychology/article/view/3779/3590)
 
+Shiny app: [here](https://tjw41q-victor0auger.shinyapps.io/deploy2/)
 ---
 
 ## Abstract
