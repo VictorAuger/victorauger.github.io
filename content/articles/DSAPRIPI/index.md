@@ -5,9 +5,7 @@ tags: ["Modelling", "Data simulations", "Statistical power", "Methods"]
 author: "Victor Auger, Alice Normand"
 description: Simulation has become an essential tool in psychological research, offering unique insights into statistical concepts, optimising research project planning and modelling human behaviour and cognition. This tutorial navigates simulations' diverse applications across various research stages. This tutorial begins by demonstrating simulations' impact on understanding statistical concepts. Amidst growing demands for effect size reporting and interpretation, simulations can help clarify the relationship between data and effect sizes, benefiting both educational purposes and advanced research. Simulations play a crucial role in planning psychological research. They provide flexible solutions for power, helping to determine necessary sample sizes and aiding in robust research planning, providing evidence of planned procedures. Simulations are pivotal in exploring human behaviour and cognition, as well as statistical method properties. By forcing researchers to translate verbal theory into formal models, simulation can help specify the assumptions. The paper also discusses improving simulation efficiency, such as using calculation clusters, optimising simulation practices and recognises simulations' limitations. This paper emphasises simulations' versatile role in psychological research. They enable deep insights into complex datasets, streamline project preparation and uncover subtleties in human behaviour, cognition and statistical methodologies.
 summary: "[Published in the International Journal of Psychology 2024] This paper navigates simulations' diverse applications across various research stages in psychology"
-cover:
-    image: "cover_sim.png"
-    alt: "Data simulations for advancing psychological research: Insights, preparations and investigations"
+
 ---
 
 ![cover](cover_sim.png)
