@@ -8,7 +8,7 @@ Cognitive Psychology (92 hrs, Bachelor’s level)
 
 
 
-*Cross-Disciplinary Courses [Statistics, Methodology]**
+**Cross-Disciplinary Courses [Statistics, Methodology]**
 
 Research Studies and Projects (34 hrs, Bachelor’s level)
 
