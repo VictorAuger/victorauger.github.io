@@ -4,6 +4,8 @@
 
 - Social Cognition (40 hrs, Bachelor’s level)
 
+- Social Psychology (60 hrs, Bachelor's level)
+
 - Cognitive Psychology (92 hrs, Bachelor’s level)
 
 
