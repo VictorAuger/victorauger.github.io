@@ -17,4 +17,4 @@ With the support of the EASP Seedcorn Grant [with Lisa Fourgassie](https://www.e
 
 **3. Research Practices**
 
-In parallel, I am also interested in the developments of new research practices in psychological science. Specifically, I explore the use of simulations at various stages of the research process and advocate for reflection the criteria used for assessing scientific contributions.
+In parallel, I am also interested in the developments of new research practices in psychological science. Specifically, I explore the use of simulations at various stages of the research process and advocate for reflection on the criteria used for assessing scientific contributions.
