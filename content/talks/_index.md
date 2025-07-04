@@ -2,9 +2,9 @@
 title: "Talks"
 hidemeta: true
 ---
-[9] Auger, V., Fourgassie, L., Normand, A. (2025). Analyses Multivers: Intérêts, Exemples et Futures Directions. Journées Thématiques de l'ADRIPS : De la réflexion méthodologique au traitement des données, Strasbourg, France.
+[9] Auger, V., Darnon, C., Normand, A. (2025). Analyses Multivers: Intérêts, Exemples et Futures Directions. Journées Thématiques de l'ADRIPS : De la réflexion méthodologique au traitement des données, Strasbourg, France.
 
-[8] Auger, V., Fourgassie, L., Normand, A. (2025). Représentations Visuelles de la Classe Sociale: Effets des Inégalités Économiques. Journées Scientifique du LPPL : Cognition Sociale, Angers,
+[8] Auger, V., Fourgassie, L., Normand, A. (2025). Représentations Visuelles de la Classe Sociale: Effets des Inégalités Économiques. Journées Cognition Sociale du LPPL, Angers,
 France.
 
 [7] Auger, V., Darnon, C., Normand, A. (2024). Effets Cognitifs des Inégalités Économiques et de la Perception de Manque
