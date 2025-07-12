@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Victor Auger
           subtitle: "I am a PhD Candidate in Social and Cognitive Psychology at the LAPSCO (UCA / CNRS). My research focuses on the cognitive consequences of poverty and income inequality. I am also interested in visual representation of social class, data simulation, methods and practices in psychology."
-          imageUrl: "photo.jpg"
+          imageUrl: "photo_id.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
