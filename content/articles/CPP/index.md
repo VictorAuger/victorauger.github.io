@@ -36,21 +36,7 @@ number = {3},
 pages = {238-256},
 year = {2025},
 doi = {10.1521/soco.2025.43.3.238},
-
-URL = { 
-    
-        https://doi.org/10.1521/soco.2025.43.3.238
-    
-    
-
-},
-eprint = { 
-    
-        https://doi.org/10.1521/soco.2025.43.3.238
-    
-    
-
-}
-,
-    abstract = { The way individuals and groups of individuals choose to physically position themselves in social spaces is not random. It is determined by sociopsychological factors such as group membership or demographics. Spatial dynamics are therefore indicators of underlying social and cognitive processes. Existing research methods and paradigms used to uncover social dynamics through controlled, repeated, and psychometrically valid measures of spatial indicators are rare. To overcome these limitations, a new tool has been developed and tested: the crowd placement paradigm (CPP). This article is a step-by-step tutorial aiming to present this novel paradigm with comprehensive instructions on how to implement it and detailed information on the associated accessible resources that will facilitate its adoption by interested researchers. Furthermore, examples based on previously conducted studies are provided to present how paradigm parameters can be manipulated and adapted to explore a variety of research questions. This article highlights the CPP's potential uses in social cognition research. }
+URL = {https://doi.org/10.1521/soco.2025.43.3.238},
+eprint = {https://doi.org/10.1521/soco.2025.43.3.238},
+abstract = {The way individuals and groups of individuals choose to physically position themselves in social spaces is not random. It is determined by sociopsychological factors such as group membership or demographics. Spatial dynamics are therefore indicators of underlying social and cognitive processes. Existing research methods and paradigms used to uncover social dynamics through controlled, repeated, and psychometrically valid measures of spatial indicators are rare. To overcome these limitations, a new tool has been developed and tested: the crowd placement paradigm (CPP). This article is a step-by-step tutorial aiming to present this novel paradigm with comprehensive instructions on how to implement it and detailed information on the associated accessible resources that will facilitate its adoption by interested researchers. Furthermore, examples based on previously conducted studies are provided to present how paradigm parameters can be manipulated and adapted to explore a variety of research questions. This article highlights the CPP's potential uses in social cognition research. }
 }
