@@ -6,7 +6,7 @@ hidemeta: true
 **1. Social Class and Network Homogeneity**
 As part of a broader project on social class and intergroup relations, I examine how the degree of homogeneity within social class groups shapes psychological outcomes. This research explores how network composition reinforces or challenges class-based boundaries, and how such dynamics influence perceptions of social class, intergroup relations, and social mobility.
 
-With the support of the [SNF Ambizione](https://data.snf.ch/grants/grant/216024) obtained by Dr. Anatolia Batruch
+With the support of the [SNSF Ambizione](https://data.snf.ch/grants/grant/216024) obtained by Dr. Anatolia Batruch
 
 **2. Poverty in Economically Unequal Context: Psychological Consequences**
 
