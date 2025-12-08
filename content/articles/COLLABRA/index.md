@@ -1,6 +1,6 @@
 ---
 title: "Is Perceived Economic Scarcity Linked to Attention Toward Economic Inequality Cues? Empirical Evidence With Multiverse Analyses (2025)"
-date: 2025-12-
+date: 2025-12-08
 tags: ["economic scarcity", "economic inequality", "attention", "environment"]
 author: "Victor Auger, Céline Darnon, Alice Normand"
 description: "This research investigates how perceived economic scarcity is associated with heightened sensitivity to economic inequality-related cues. Across three preregistered studies, articipants completed a speeded-decision (N = 580 and N = 206) and a change-blindness task (N = 210). We hypothesized that perceived economic scarcity would be associated with heightened attention to inequality-related cues. Results from Study 1 and 2 provided partial support of increased attention to information related to how resources are distributed. However, results from Study 3, using a more ecologically valid paradigm, are not consistent with our hypothesis. A multiverse analysis revealed that core findings were robust across specifications. These results offer a potential cognitive explanation of how economic inequality can act as a catalyst for individuals experiencing scarcity, through increased attentional tuning to economically salient features in the environment"
