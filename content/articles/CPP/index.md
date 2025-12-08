@@ -24,7 +24,7 @@ The way individuals and groups of individuals choose to physically position them
 
 ## Citation
 
-Haddad, R., Auger, V., & Gautier, L. (2025). The crowd placement paradigm: Introducing a novel tool to study sociospatial dynamics. _Social Cognition, 43_(3), 238-256.
+Haddad, R., Auger, V., & Gautier, L. (2025). The crowd placement paradigm: Introducing a novel tool to study sociospatial dynamics. _Social Cognition, 43_(3), 238-256. https://doi.org/10.1521/soco.2025.43.3.238
 
 ```bibtex
 @article{doi:10.1521/soco.2025.43.3.238,
