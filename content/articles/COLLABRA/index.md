@@ -22,7 +22,7 @@ This research investigates how perceived economic scarcity is associated with he
 
 ## Citation
 
-Victor Auger, Céline Darnon, Alice Normand; Is Perceived Economic Scarcity Linked to Attention Toward Economic Inequality Cues? Empirical Evidence With Multiverse Analyses. _Collabra: Psychology, 11_(1). https://doi.org/10.1525/collabra.147545
+Auger, V., Darnon, C., & Normand, A. (2025). Is Perceived Economic Scarcity Linked to Attention Toward Economic Inequality Cues? Empirical Evidence With Multiverse Analyses. _Collabra: Psychology, 11_(1). https://doi.org/10.1525/collabra.147545
 ```bibtex
 @article{10.1525/collabra.147545,
     author = {Auger, Victor and Darnon, Céline and Normand, Alice},
