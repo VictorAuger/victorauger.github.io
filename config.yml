@@ -54,9 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Victor Auger
-          subtitle: |
-            I am a Maître de conférences (Assoc. Prof.) at Université Grenoble Alpes (LIP/PC2S).
-            My research examines how economic contexts shape cognition, social perception, and behaviour, with a particular focus on the cognitive consequences of economic scarcity and income inequality, and on the visual representation of social class. I am also interested in data simulation and in methodological practices in psychology.          
+          subtitle: "I am a Maître de conférences (Assoc. Prof.) at Université Grenoble Alpes (LIP/PC2S).<br><br>My research examines how economic contexts shape cognition, social perception, and behaviour, with a particular focus on the cognitive consequences of economic scarcity and income inequality, and on the visual representation of social class. I am also interested in data simulation and in methodological practices in psychology."       
           imageUrl: "photo_id.png"
           imageWidth: 160
           imageHeight: 160
