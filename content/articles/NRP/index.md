@@ -4,6 +4,7 @@ date: 2026-08-25
 tags: ["Poverty", "Inequality", "Cognition"]
 author: "Victor Auger"
 description: Financial problems rarely stay on the spreadsheet; people carry them throughout the day in their thoughts and worries. This is especially true for individuals facing poverty, who, with limited resources, face hard-to-resolve budgetary trade-offs. Thus, a central question is the extent to which financial concerns shape cognition and the way people perceive the world. In 2013, Mani and colleagues explored this question by combining laboratory and field studies...
+summary: "[Published in Nature Reviews Psychology 2026]"
 
 ---
 
